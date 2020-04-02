@@ -22,7 +22,7 @@ mysql> show databases;
 ```
 
 ## 编译显示
-
+ ![](https://github.com/ty0816/mysql-test-1/blob/master/QQ%E5%9B%BE%E7%89%8720200402094149.png)
 
 ## 题目2：如何join两张表
 
